@@ -2,7 +2,6 @@
 # Molecular epidemiology and transmission dynamics of CoVID-19 in Houston Texas
 CDC contract 75D30121C10133
 
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,3 +53,9 @@ CDC contract 75D30121C10133
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
