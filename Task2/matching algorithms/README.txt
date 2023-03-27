@@ -1,19 +1,9 @@
-Jacky Kuo, Ryan Lewis
-03/01/2023
-
-
-### to do
-  - add fake data to show data structure
-
-
-###### !! ~  The following notes were extracted from Ryan's folder and were originally written by him  ~ !! ######
-
-
+## The following notes were extracted from Ryan's folder and were originally written by him
 
 ==================================================================
 ====== /// /// /// NOTES BY RYAN /// /// /// =====================
 ==================================================================
-COVID-19 Address Matching 1-11-22
+COVID-19 Address Matching 2022-01-11
 Version 4
 
 Initial:Total = 7,849,621 (3,312,427 EVENT_ID)
@@ -54,9 +44,6 @@ Step 5 (Matching):
 	Locations = 414,093 (2.66 Indivduals/Locations)
 
 
-
-
-
 ==========================================================================
 ====== /// /// /// SUMMARY FOR CDC (also by Ryan) /// /// /// ============
 ==========================================================================
@@ -83,4 +70,5 @@ Step 5 (Matching):
         ~ Within the 417,979 locations there is an average of 2.74 individuals per location
 
 
-
+Jacky Kuo, Ryan Lewis
+03/01/2023
