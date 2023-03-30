@@ -4,11 +4,11 @@ This folder contains R codes to employ the network affiliation model, network ex
 
 ### `affiliation network exposure.R`
 
-This R script contains the code to compute the affiliation network exposure. The step-by-step procedures are outline within the .R file. For the final reporting of the project, we utilized the data for the delta-period, which we defiend as epedemiological weeks 14-35 of 2021. For future use, the input data can be adjusted to compute measures for different periods. 
+This R script contains the code to compute the affiliation network exposure. The step-by-step procedures are outlined within the .R file. For the final reporting of the project, we utilized the data for the delta-period, which we defiend as epedemiological weeks 14-35 of 2021. For future use, the input data can be adjusted to compute measures for different periods. 
 
 ### `network exposure model.R`
 
-This R script contains the code to compute the network exposure measure. The step-by-step procedures are outline within the .R file. For the final reporting of the project, we utilized the data for the delta-period, which we defiend as epedemiological weeks 14-35 of 2021. For future use, the input data can be adjusted to compute measures for different periods. 
+This R script contains the code to compute the network exposure measure. The step-by-step procedures are outlined within the .R file. For the final reporting of the project, we utilized the data for the delta-period, which we defiend as epedemiological weeks 14-35 of 2021. For future use, the input data can be adjusted to compute measures for different periods. 
 
 ### `positional measures and centralities.R`
 
